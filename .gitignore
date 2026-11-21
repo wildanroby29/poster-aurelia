@@ -1,0 +1,4 @@
+# AURELIA poster entry — ignore build output and local clutter
+node_modules/
+.DS_Store
+output/
